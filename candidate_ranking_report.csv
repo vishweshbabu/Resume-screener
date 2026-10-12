@@ -1,0 +1,2 @@
+Rank,Candidate Name,Resume File,Overall Match Score (%),TF-IDF Similarity (%),Skill Match (%),Experience (Years),Education,Matched JD Skills,All Extracted Skills
+1,Vishw Esh Babu Tj,FInal Resume 1 (2).pdf,3.81,0.96,6.67,0.0,B.Tech / Engineering Graduate (See Resume),python,"arduino, c, matplotlib, numpy, pandas, python"
